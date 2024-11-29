@@ -1,0 +1,13 @@
+body {background-color: rgb(204, 23, 174);
+color:rgb(119, 42, 243) }
+section {
+    background: rgb(234, 241, 136);
+    padding-bottom: 80px;
+            padding-top: 80px;
+            display: flex; /*torna flexível = coloca um do lado do outro*/
+            justify-content: center; /*coloca no centro*/
+    }
+     
+    .chamada-texto {
+ 	margin-right: 5%;
+}
